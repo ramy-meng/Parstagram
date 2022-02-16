@@ -14,7 +14,7 @@ The following **required** functionality is completed for PartI:
 - [x] User can take a photo, add a caption, and post it to "Instagram".
 - [x] User can view the last 20 posts submitted to "Instagram".
 
-The following **required** functionality is completed for PartI:
+The following **required** functionality is completed for PartII:
 
 - [x] The user should switch between different tabs - viewing all posts (feed view), compose (capture photos form camera) and profile tabs (posts made) using fragments and a Bottom Navigation View. (2 points)
 - [x] User can pull to refresh the last 20 posts submitted to "Instagram".
